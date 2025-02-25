@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0deabca0-d4c2-4bb2-8d56-b1f99f2285ca" name="Changes" comment="MailerLite automation" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SauceLabs-Jagannath-Rangarajan-UK/src/test/java/Page/EmailPage.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/SauceLabs-Jagannath-Rangarajan-UK/src/test/java/Page/SubscriberPage.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tXm4GURKxkJawN3YcmPYB8LWGc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.TestNG.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/a713463/IdeaProjects/MailerLite automation - Jagannath Rangarajan",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a713463\IdeaProjects\MailerLite automation - Jagannath Rangarajan\SauceLabs-Jagannath-Rangarajan-UK\src\test\java\com\mailerlite\tests" />
+      <recent name="C:\Users\a713463\IdeaProjects\MailerLite automation - Jagannath Rangarajan\SauceLabs-Jagannath-Rangarajan-UK\src\main\java\com\mailerlite\pages" />
+      <recent name="C:\Users\a713463\IdeaProjects\MailerLite automation - Jagannath Rangarajan\SauceLabs-Jagannath-Rangarajan-UK\src\main\java\com" />
+      <recent name="C:\Users\a713463\IdeaProjects\MailerLite automation - Jagannath Rangarajan\SauceLabs-Jagannath-Rangarajan-UK\src\test\java\Tests" />
+      <recent name="C:\Users\a713463\IdeaProjects\MailerLite automation - Jagannath Rangarajan\SauceLabs-Jagannath-Rangarajan-UK\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a713463\IdeaProjects\MailerLite automation - Jagannath Rangarajan\SauceLabs-Jagannath-Rangarajan-UK\src\main\resources" />
+      <recent name="C:\Users\a713463\IdeaProjects\MailerLite automation - Jagannath Rangarajan\SauceLabs-Jagannath-Rangarajan-UK\src\main" />
+      <recent name="C:\Users\a713463\IdeaProjects\MailerLite automation - Jagannath Rangarajan\SauceLabs-Jagannath-Rangarajan-UK\src\test\java\com\mailerlite" />
+      <recent name="C:\Users\a713463\IdeaProjects\MailerLite automation - Jagannath Rangarajan\SauceLabs-Jagannath-Rangarajan-UK\src\main\java\com\mailerlite\pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestNG" type="TestNG">
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-23" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/SauceLabs-Jagannath-Rangarajan-UK/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0deabca0-d4c2-4bb2-8d56-b1f99f2285ca" name="Changes" comment="" />
+      <created>1740506603306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740506603306</updated>
+    </task>
+    <task id="LOCAL-00001" summary="MailerLite automation">
+      <option name="closed" value="true" />
+      <created>1740513435989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740513435989</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MailerLite automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="MailerLite automation" />
+  </component>
+</project>
