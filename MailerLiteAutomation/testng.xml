@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MailerLiteAutomationSuite">
+    <test name="CampaignTest">
+        <classes>
+            <class name="com.mailerlite.tests.CampaignTest"/>
+        </classes>
+    </test>
+
+    <test name="UnsubscribeTests">
+        <classes>
+            <class name="com.mailerlite.tests.UnsubscribeTest"/>
+        </classes>
+    </test>
+</suite>
